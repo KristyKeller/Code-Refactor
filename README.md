@@ -4,4 +4,4 @@
 * Changed Non-Semantic HTML to Semantic HTML for better SEO and web accessibility
 * Fixed broken imagery and broken link for Search Engine Optimization header
 * Cleaned up CSS and HTML formatting
-* Increased any font style that was less than 18 point font for adequate contrast
+* Increased any font style less than 24px to meet adequate contrast readability standards
