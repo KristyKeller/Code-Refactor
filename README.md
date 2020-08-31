@@ -4,3 +4,5 @@
 * Changed Non-Semantic HTML to Semantic HTML for better SEO and web accessibility
 * Fixed broken imagery and broken link for Search Engine Optimization header
 * Cleaned up CSS and HTML formatting 
+
+ https://kristykeller.github.io/code-refactor/
