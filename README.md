@@ -2,6 +2,13 @@
 
 ### [CLICK HERE TO VIEW LIVE SITE]( https://kristykeller.github.io/code-refactor/)
 
+## User Story
+```
+As A marketing agency
+I Want a codebase that follows accessibility standards
+So that our own site is optimized for search engines
+```
+
 ## Project Overview
  
 * Took existing code and updated it to newer, modern version
