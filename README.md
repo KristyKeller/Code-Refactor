@@ -1,10 +1,10 @@
-# Code Refactor
+# 🖥  Code Refactor
 
 ### [CLICK HERE TO VIEW LIVE SITE]( https://kristykeller.github.io/code-refactor/)
 
 ## User Story
 ```
-As A marketing agency
+As a marketing agency
 I Want a codebase that follows accessibility standards
 So that our own site is optimized for search engines
 ```
@@ -15,3 +15,5 @@ So that our own site is optimized for search engines
 * Changed Non-Semantic HTML to Semantic HTML for better SEO and web accessibility
 * Fixed broken imagery and broken link for Search Engine Optimization header
 * Cleaned up CSS and HTML formatting 
+
+## Screenshot
