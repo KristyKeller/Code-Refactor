@@ -17,3 +17,4 @@ So that our own site is optimized for search engines
 * Cleaned up CSS and HTML formatting 
 
 ## Screenshot
+![semnatic](./images/Horison.png)
