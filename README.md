@@ -1,6 +1,6 @@
 # 🖥  Code Refactor
 
-### [CLICK HERE TO VIEW LIVE SITE]( https://kristykeller.github.io/CodeRefactor/)
+[CLICK HERE TO VIEW LIVE SITE]( https://kristykeller.github.io/CodeRefactor/)
 
 ## User Story
 ```
